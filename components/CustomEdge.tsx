@@ -8,15 +8,14 @@ const CustomEdge = ({
   targetX,
   targetY,
   style = {},
-  data,
 }: EdgeProps) => {
   const edgePath = getBezierPath({
     sourceX,
     sourceY,
-    sourcePosition: "right",
+    // sourcePosition: "right",
     targetX,
     targetY,
-    targetPosition: "left",
+    // targetPosition: "left",
   });
 
   return (

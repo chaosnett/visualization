@@ -273,7 +273,7 @@ export default function Graph() {
     );
   }, []);
 
-  const generateMockResults = (nodeLabel, parameter) => {
+  const generateMockResults = () => {
     const possibleMetrics = [
       "GDP",
       "Inflation",
@@ -310,7 +310,7 @@ export default function Graph() {
     selectedMetrics.forEach((metric) => {
       const isIncrease = Math.random() < 0.1;
 
-      const probability = Math.floor(Math.random() * 20) + 10;
+      const probability = Math.floor(Math.random() * 10) + 8;
 
       const changeType = isIncrease ? "increase" : "decrease";
 

@@ -8,7 +8,7 @@ export interface DropdownMenuOption {
 export interface DropdownMenuProps {
   options: DropdownMenuOption[];
   selected: string;
-  setSelected: Function;
+  setSelected: React.Dispatch<React.SetStateAction<string>>;
 }
 
 const DropdownMenu = (props: DropdownMenuProps) => {
