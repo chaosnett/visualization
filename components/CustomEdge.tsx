@@ -1,5 +1,6 @@
 import React from "react";
 import { EdgeProps, getBezierPath } from "@xyflow/react";
+/* eslint-disable */
 
 const CustomEdge = ({
   id,

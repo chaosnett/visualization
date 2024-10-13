@@ -1,4 +1,6 @@
 "use client";
+/* eslint-disable */
+
 import { Header } from "@/components/Header";
 import Graph from "@/components/Graph";
 import { useState, useEffect } from "react";

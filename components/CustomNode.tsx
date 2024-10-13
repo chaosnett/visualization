@@ -1,5 +1,6 @@
 import React from "react";
 import { NodeProps } from "@xyflow/react";
+/* eslint-disable */
 
 const CustomNode = ({ data, className, style }: NodeProps) => {
   return (

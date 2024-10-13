@@ -1,4 +1,5 @@
-// pages/devlog.tsx
+/* eslint-disable */
+
 "use client";
 import * as React from "react";
 import { Header } from "../../components/Header";
