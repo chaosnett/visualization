@@ -9,6 +9,13 @@ export default function Home() {
       <main className="flex h-full w-full">
         <Graph />
       </main>
+      <a
+        href="/devlog"
+        target="_blank"
+        className="absolute right-20 top-36 z-10 cursor-pointer text-xl text-purple-600 transition-all duration-300 hover:scale-110 hover:opacity-80"
+      >
+        Check out our DevLogs!
+      </a>
     </div>
   );
 }

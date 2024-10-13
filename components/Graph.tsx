@@ -358,8 +358,8 @@ export default function Graph() {
     setIsTraversing(true);
 
     const totalNodes = nodes.length;
-    const minNodesToVisit = Math.floor(totalNodes * 0.7);
-    const maxNodesToVisit = Math.floor(totalNodes * 0.9);
+    const minNodesToVisit = Math.floor(totalNodes * 0.4);
+    const maxNodesToVisit = Math.floor(totalNodes * 0.75);
     const maxNodesToVisitRandom =
       Math.floor(Math.random() * (maxNodesToVisit - minNodesToVisit + 1)) +
       minNodesToVisit;
@@ -416,10 +416,7 @@ export default function Graph() {
           return node;
         }),
       );
-
-      // Check if traversal limit is reached after visiting the node
       if (visitedNodes.size >= maxNodesToVisitRandom) {
-        // Generate mock results
         const selectedParameter = dropdownOptions.find(
           (item) => item.value === selectedOption,
         );
@@ -643,6 +640,8 @@ export default function Graph() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  const proOptions = { hideAttribution: true };
+
   return (
     <>
       <ReactFlow
@@ -660,9 +659,10 @@ export default function Graph() {
         defaultEdgeOptions={{
           style: { markerEnd: "url(#react-flow__arrowhead)" },
         }}
+        proOptions={proOptions}
+        defaultViewport={{ x: 350, y: 220, zoom: 0.5 }}
       >
         <Controls />
-        <MiniMap />
         <Background variant="dots" gap={12} size={1} />
       </ReactFlow>
 
@@ -719,7 +719,7 @@ export default function Graph() {
 
       {parameterModalOpen && !isTraversing && traversalResults && (
         <div className="absolute left-20 top-10 z-10 my-6 flex h-max w-1/4 flex-col items-start justify-start gap-3 rounded-xl border-2 border-black bg-secondary px-8 py-4 text-lg drop-shadow-2xl">
-          <span className="pl-11 text-3xl text-red-500">Notable Results</span>
+          <span className="pl-11 text-3xl text-red-500">Possible Results</span>
           {traversalResults &&
             Object.entries(traversalResults).map(([metric, result]) => (
               <span
