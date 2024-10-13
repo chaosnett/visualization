@@ -667,7 +667,7 @@ export default function Graph() {
       </ReactFlow>
 
       {parameterModalOpen && (
-        <div className="absolute right-20 top-36 z-10 my-6 flex h-2/5 w-1/5 flex-col items-start justify-start gap-3 rounded-xl border-2 border-black bg-secondary px-8 py-4 text-lg drop-shadow-2xl">
+        <div className="absolute right-20 top-40 z-10 my-6 flex h-2/5 w-1/5 flex-col items-start justify-start gap-3 rounded-xl border-2 border-black bg-secondary px-8 py-4 text-lg drop-shadow-2xl">
           <span className="pl-16 text-3xl text-green-500">
             {nodes.find((node) => node.id === selectedNodeId)?.data?.label}
           </span>
