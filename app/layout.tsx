@@ -4,8 +4,8 @@ import localFont from "next/font/local";
 import { ReactFlowProvider } from "@xyflow/react";
 
 export const metadata: Metadata = {
-  title: "Visualization",
-  description: "Created by Neel and Chase",
+  title: "ChaosNet",
+  description: "A Partial Equilibrium Simulation for the world trade",
 };
 
 const arrayFont = localFont({
