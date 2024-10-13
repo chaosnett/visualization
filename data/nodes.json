@@ -1,0 +1,610 @@
+[
+  {
+    "id": "1",
+    "position": {
+      "x": 500.0,
+      "y": 0.0
+    },
+    "data": {
+      "label": "USA"
+    }
+  },
+  {
+    "id": "2",
+    "position": {
+      "x": 497.0689785771798,
+      "y": 54.059509211970884
+    },
+    "data": {
+      "label": "Switzerland "
+    }
+  },
+  {
+    "id": "3",
+    "position": {
+      "x": 488.31027785504335,
+      "y": 107.48522010551204
+    },
+    "data": {
+      "label": "Denmark "
+    }
+  },
+  {
+    "id": "4",
+    "position": {
+      "x": 473.8265855914012,
+      "y": 159.65076506799
+    },
+    "data": {
+      "label": "Zambia "
+    }
+  },
+  {
+    "id": "5",
+    "position": {
+      "x": 453.7877098354785,
+      "y": 209.9445507801323
+    },
+    "data": {
+      "label": "Japan "
+    }
+  },
+  {
+    "id": "6",
+    "position": {
+      "x": 428.42858808379464,
+      "y": 257.7769285885109
+    },
+    "data": {
+      "label": "Nepal "
+    }
+  },
+  {
+    "id": "7",
+    "position": {
+      "x": 398.0465328528219,
+      "y": 302.5871075968826
+    },
+    "data": {
+      "label": "Unitedkingdom "
+    }
+  },
+  {
+    "id": "8",
+    "position": {
+      "x": 362.99774596156544,
+      "y": 343.84972942671163
+    },
+    "data": {
+      "label": "Israel "
+    }
+  },
+  {
+    "id": "9",
+    "position": {
+      "x": 323.6931423909138,
+      "y": 381.0810275638182
+    },
+    "data": {
+      "label": "Belgium "
+    }
+  },
+  {
+    "id": "10",
+    "position": {
+      "x": 280.59353268119116,
+      "y": 413.84449907844527
+    },
+    "data": {
+      "label": "India "
+    }
+  },
+  {
+    "id": "11",
+    "position": {
+      "x": 234.20422034989508,
+      "y": 441.7560222230115
+    },
+    "data": {
+      "label": "China "
+    }
+  },
+  {
+    "id": "12",
+    "position": {
+      "x": 185.06907766995718,
+      "y": 464.4883599083957
+    },
+    "data": {
+      "label": "Mexico "
+    }
+  },
+  {
+    "id": "13",
+    "position": {
+      "x": 133.7641692646104,
+      "y": 481.7749962596115
+    },
+    "data": {
+      "label": "France "
+    }
+  },
+  {
+    "id": "14",
+    "position": {
+      "x": 80.8909982763823,
+      "y": 493.4132612707631
+    },
+    "data": {
+      "label": "Greenland "
+    }
+  },
+  {
+    "id": "15",
+    "position": {
+      "x": 27.069454292708805,
+      "y": 499.2667069255619
+    },
+    "data": {
+      "label": "Ghana "
+    }
+  },
+  {
+    "id": "16",
+    "position": {
+      "x": -27.06945429270874,
+      "y": 499.2667069255619
+    },
+    "data": {
+      "label": "Vietnam "
+    }
+  },
+  {
+    "id": "17",
+    "position": {
+      "x": -80.89099827638236,
+      "y": 493.4132612707631
+    },
+    "data": {
+      "label": "Spain "
+    }
+  },
+  {
+    "id": "18",
+    "position": {
+      "x": -133.76416926461044,
+      "y": 481.77499625961144
+    },
+    "data": {
+      "label": "Australia "
+    }
+  },
+  {
+    "id": "19",
+    "position": {
+      "x": -185.06907766995724,
+      "y": 464.4883599083957
+    },
+    "data": {
+      "label": "Yemen "
+    }
+  },
+  {
+    "id": "20",
+    "position": {
+      "x": -234.20422034989502,
+      "y": 441.7560222230115
+    },
+    "data": {
+      "label": "Afghanistan "
+    }
+  },
+  {
+    "id": "21",
+    "position": {
+      "x": -280.59353268119116,
+      "y": 413.84449907844527
+    },
+    "data": {
+      "label": "Taiwan "
+    }
+  },
+  {
+    "id": "22",
+    "position": {
+      "x": -323.69314239091386,
+      "y": 381.0810275638182
+    },
+    "data": {
+      "label": "Bhutan "
+    }
+  },
+  {
+    "id": "23",
+    "position": {
+      "x": -362.99774596156544,
+      "y": 343.84972942671163
+    },
+    "data": {
+      "label": "Import Live",
+      "product_code": "01",
+      "product_label": "Live animals"
+    }
+  },
+  {
+    "id": "24",
+    "position": {
+      "x": -398.0465328528219,
+      "y": 302.58710759688256
+    },
+    "data": {
+      "label": "Import Meat",
+      "product_code": "02",
+      "product_label": "Meat and edible meat offal"
+    }
+  },
+  {
+    "id": "25",
+    "position": {
+      "x": -428.42858808379464,
+      "y": 257.7769285885108
+    },
+    "data": {
+      "label": "Import Fish",
+      "product_code": "03",
+      "product_label": "Fish and crustaceans, molluscs and other aquatic invertebrates"
+    }
+  },
+  {
+    "id": "26",
+    "position": {
+      "x": -453.78770983547855,
+      "y": 209.9445507801322
+    },
+    "data": {
+      "label": "Import Dairy",
+      "product_code": "04",
+      "product_label": "Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere ..."
+    }
+  },
+  {
+    "id": "27",
+    "position": {
+      "x": -473.8265855914012,
+      "y": 159.65076506798988
+    },
+    "data": {
+      "label": "Import Products",
+      "product_code": "05",
+      "product_label": "Products of animal origin, not elsewhere specified or included"
+    }
+  },
+  {
+    "id": "28",
+    "position": {
+      "x": -488.31027785504335,
+      "y": 107.48522010551213
+    },
+    "data": {
+      "label": "Import Live",
+      "product_code": "06",
+      "product_label": "Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage"
+    }
+  },
+  {
+    "id": "29",
+    "position": {
+      "x": -497.0689785771798,
+      "y": 54.05950921197096
+    },
+    "data": {
+      "label": "Import Edible",
+      "product_code": "07",
+      "product_label": "Edible vegetables and certain roots and tubers"
+    }
+  },
+  {
+    "id": "30",
+    "position": {
+      "x": -500.0,
+      "y": 6.123233995736766e-14
+    },
+    "data": {
+      "label": "Export Live",
+      "product_code": "01",
+      "product_label": "Live animals"
+    }
+  },
+  {
+    "id": "31",
+    "position": {
+      "x": -497.0689785771798,
+      "y": -54.05950921197084
+    },
+    "data": {
+      "label": "Export Meat",
+      "product_code": "02",
+      "product_label": "Meat and edible meat offal"
+    }
+  },
+  {
+    "id": "32",
+    "position": {
+      "x": -488.31027785504335,
+      "y": -107.48522010551201
+    },
+    "data": {
+      "label": "Export Fish",
+      "product_code": "03",
+      "product_label": "Fish and crustaceans, molluscs and other aquatic invertebrates"
+    }
+  },
+  {
+    "id": "33",
+    "position": {
+      "x": -473.8265855914012,
+      "y": -159.65076506798997
+    },
+    "data": {
+      "label": "Export Dairy",
+      "product_code": "04",
+      "product_label": "Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere ..."
+    }
+  },
+  {
+    "id": "34",
+    "position": {
+      "x": -453.7877098354785,
+      "y": -209.9445507801323
+    },
+    "data": {
+      "label": "Export Products",
+      "product_code": "05",
+      "product_label": "Products of animal origin, not elsewhere specified or included"
+    }
+  },
+  {
+    "id": "35",
+    "position": {
+      "x": -428.4285880837946,
+      "y": -257.77692858851094
+    },
+    "data": {
+      "label": "Export Live",
+      "product_code": "06",
+      "product_label": "Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage"
+    }
+  },
+  {
+    "id": "36",
+    "position": {
+      "x": -398.0465328528218,
+      "y": -302.5871075968826
+    },
+    "data": {
+      "label": "Export Edible",
+      "product_code": "07",
+      "product_label": "Edible vegetables and certain roots and tubers"
+    }
+  },
+  {
+    "id": "37",
+    "position": {
+      "x": -362.9977459615654,
+      "y": -343.8497294267117
+    },
+    "data": {
+      "label": "Industry: Mining & Metals"
+    }
+  },
+  {
+    "id": "38",
+    "position": {
+      "x": -323.69314239091375,
+      "y": -381.0810275638183
+    },
+    "data": {
+      "label": "Industry: Pharmaceuticals"
+    }
+  },
+  {
+    "id": "39",
+    "position": {
+      "x": -280.5935326811913,
+      "y": -413.8444990784452
+    },
+    "data": {
+      "label": "Industry: Telecommunications"
+    }
+  },
+  {
+    "id": "40",
+    "position": {
+      "x": -234.20422034989494,
+      "y": -441.75602222301154
+    },
+    "data": {
+      "label": "Industry: Electronics"
+    }
+  },
+  {
+    "id": "41",
+    "position": {
+      "x": -185.06907766995724,
+      "y": -464.4883599083957
+    },
+    "data": {
+      "label": "Industry: Textiles"
+    }
+  },
+  {
+    "id": "42",
+    "position": {
+      "x": -133.76416926461025,
+      "y": -481.7749962596115
+    },
+    "data": {
+      "label": "Industry: Logistics & Transportation"
+    }
+  },
+  {
+    "id": "43",
+    "position": {
+      "x": -80.89099827638238,
+      "y": -493.4132612707631
+    },
+    "data": {
+      "label": "Industry: Food & Beverage"
+    }
+  },
+  {
+    "id": "tariff_44",
+    "position": {
+      "x": -27.069454292708976,
+      "y": -499.2667069255619
+    },
+    "data": {
+      "label": "US Steel Tariff (25%)"
+    }
+  },
+  {
+    "id": "tariff_45",
+    "position": {
+      "x": 27.06945429270879,
+      "y": -499.2667069255619
+    },
+    "data": {
+      "label": "EU Aluminum Tariff (10%)"
+    }
+  },
+  {
+    "id": "tariff_46",
+    "position": {
+      "x": 80.8909982763822,
+      "y": -493.41326127076314
+    },
+    "data": {
+      "label": "China Import Tariff on Automobiles (15%)"
+    }
+  },
+  {
+    "id": "tariff_47",
+    "position": {
+      "x": 133.7641692646105,
+      "y": -481.77499625961144
+    },
+    "data": {
+      "label": "India Import Tariff on Electronics (20%)"
+    }
+  },
+  {
+    "id": "tariff_48",
+    "position": {
+      "x": 185.06907766995707,
+      "y": -464.48835990839575
+    },
+    "data": {
+      "label": "Japan Import Tariff on Agricultural Products (12%)"
+    }
+  },
+  {
+    "id": "policy_49",
+    "position": {
+      "x": 234.20422034989517,
+      "y": -441.7560222230114
+    },
+    "data": {
+      "label": "Policy: NAFTA (North American Free Trade Agreement)"
+    }
+  },
+  {
+    "id": "policy_50",
+    "position": {
+      "x": 280.59353268119116,
+      "y": -413.8444990784453
+    },
+    "data": {
+      "label": "Policy: Paris Climate Agreement"
+    }
+  },
+  {
+    "id": "policy_51",
+    "position": {
+      "x": 323.693142390914,
+      "y": -381.0810275638181
+    },
+    "data": {
+      "label": "Policy: Common Agricultural Policy (EU)"
+    }
+  },
+  {
+    "id": "policy_52",
+    "position": {
+      "x": 362.9977459615654,
+      "y": -343.84972942671163
+    },
+    "data": {
+      "label": "Policy: Sanctions on Iran"
+    }
+  },
+  {
+    "id": "policy_53",
+    "position": {
+      "x": 398.046532852822,
+      "y": -302.58710759688245
+    },
+    "data": {
+      "label": "Policy: Corporate Tax Reform Act (USA)"
+    }
+  },
+  {
+    "id": "policy_54",
+    "position": {
+      "x": 428.42858808379464,
+      "y": -257.7769285885109
+    },
+    "data": {
+      "label": "Policy: Fair Labor Standards Act (USA)"
+    }
+  },
+  {
+    "id": "policy_55",
+    "position": {
+      "x": 453.78770983547844,
+      "y": -209.94455078013246
+    },
+    "data": {
+      "label": "Policy: R&D Tax Credit (USA)"
+    }
+  },
+  {
+    "id": "policy_56",
+    "position": {
+      "x": 473.8265855914012,
+      "y": -159.65076506798994
+    },
+    "data": {
+      "label": "Policy: Generalized System of Preferences (GSP)"
+    }
+  },
+  {
+    "id": "policy_57",
+    "position": {
+      "x": 488.31027785504335,
+      "y": -107.48522010551218
+    },
+    "data": {
+      "label": "Policy: World Trade Organization (WTO) Trade Facilitation Agreement"
+    }
+  },
+  {
+    "id": "policy_58",
+    "position": {
+      "x": 497.0689785771798,
+      "y": -54.0595092119708
+    },
+    "data": {
+      "label": "Policy: Digital Services Tax (EU)"
+    }
+  }
+]

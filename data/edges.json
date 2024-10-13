@@ -1,0 +1,3117 @@
+[
+  {
+    "id": "e1-23",
+    "source": "1",
+    "target": "23",
+    "value": null,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-2",
+    "source": "23",
+    "target": "2",
+    "value": 4089,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-3",
+    "source": "23",
+    "target": "3",
+    "value": 3764,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-4",
+    "source": "23",
+    "target": "4",
+    "value": 3,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-5",
+    "source": "23",
+    "target": "5",
+    "value": 3075,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-7",
+    "source": "23",
+    "target": "7",
+    "value": 58290,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-8",
+    "source": "23",
+    "target": "8",
+    "value": 5385,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-9",
+    "source": "23",
+    "target": "9",
+    "value": 62421,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-11",
+    "source": "23",
+    "target": "11",
+    "value": 4812,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-12",
+    "source": "23",
+    "target": "12",
+    "value": 767060,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-13",
+    "source": "23",
+    "target": "13",
+    "value": 25343,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-15",
+    "source": "23",
+    "target": "15",
+    "value": 801,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-16",
+    "source": "23",
+    "target": "16",
+    "value": 8715,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-17",
+    "source": "23",
+    "target": "17",
+    "value": 7377,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-18",
+    "source": "23",
+    "target": "18",
+    "value": 11936,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-20",
+    "source": "23",
+    "target": "20",
+    "value": 6,
+    "tradeType": "import"
+  },
+  {
+    "id": "e23-21",
+    "source": "23",
+    "target": "21",
+    "value": 2931,
+    "tradeType": "import"
+  },
+  {
+    "id": "e1-24",
+    "source": "1",
+    "target": "24",
+    "value": null,
+    "tradeType": "import"
+  },
+  {
+    "id": "e24-3",
+    "source": "24",
+    "target": "3",
+    "value": 151012,
+    "tradeType": "import"
+  },
+  {
+    "id": "e24-5",
+    "source": "24",
+    "target": "5",
+    "value": 100077,
+    "tradeType": "import"
+  },
+  {
+    "id": "e24-7",
+    "source": "24",
+    "target": "7",
+    "value": 33449,
+    "tradeType": "import"
+  },
+  {
+    "id": "e24-10",
+    "source": "24",
+    "target": "10",
+    "value": 1519,
+    "tradeType": "import"
+  },
+  {
+    "id": "e24-11",
+    "source": "24",
+    "target": "11",
+    "value": 9334,
+    "tradeType": "import"
+  },
+  {
+    "id": "e24-12",
+    "source": "24",
+    "target": "12",
+    "value": 2102109,
+    "tradeType": "import"
+  },
+  {
+    "id": "e24-13",
+    "source": "24",
+    "target": "13",
+    "value": 3873,
+    "tradeType": "import"
+  },
+  {
+    "id": "e24-16",
+    "source": "24",
+    "target": "16",
+    "value": 4065,
+    "tradeType": "import"
+  },
+  {
+    "id": "e24-17",
+    "source": "24",
+    "target": "17",
+    "value": 67226,
+    "tradeType": "import"
+  },
+  {
+    "id": "e24-18",
+    "source": "24",
+    "target": "18",
+    "value": 2355798,
+    "tradeType": "import"
+  },
+  {
+    "id": "e1-25",
+    "source": "1",
+    "target": "25",
+    "value": null,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-3",
+    "source": "25",
+    "target": "3",
+    "value": 76618,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-4",
+    "source": "25",
+    "target": "4",
+    "value": 192,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-5",
+    "source": "25",
+    "target": "5",
+    "value": 312743,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-7",
+    "source": "25",
+    "target": "7",
+    "value": 198375,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-8",
+    "source": "25",
+    "target": "8",
+    "value": 1821,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-9",
+    "source": "25",
+    "target": "9",
+    "value": 27,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-10",
+    "source": "25",
+    "target": "10",
+    "value": 2785552,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-11",
+    "source": "25",
+    "target": "11",
+    "value": 1467110,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-12",
+    "source": "25",
+    "target": "12",
+    "value": 614791,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-13",
+    "source": "25",
+    "target": "13",
+    "value": 39786,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-14",
+    "source": "25",
+    "target": "14",
+    "value": 40446,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-15",
+    "source": "25",
+    "target": "15",
+    "value": 1279,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-16",
+    "source": "25",
+    "target": "16",
+    "value": 1175763,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-17",
+    "source": "25",
+    "target": "17",
+    "value": 188638,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-18",
+    "source": "25",
+    "target": "18",
+    "value": 97233,
+    "tradeType": "import"
+  },
+  {
+    "id": "e25-21",
+    "source": "25",
+    "target": "21",
+    "value": 158069,
+    "tradeType": "import"
+  },
+  {
+    "id": "e1-26",
+    "source": "1",
+    "target": "26",
+    "value": null,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-2",
+    "source": "26",
+    "target": "2",
+    "value": 122716,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-3",
+    "source": "26",
+    "target": "3",
+    "value": 53077,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-4",
+    "source": "26",
+    "target": "4",
+    "value": 314,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-5",
+    "source": "26",
+    "target": "5",
+    "value": 855,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-6",
+    "source": "26",
+    "target": "6",
+    "value": 63,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-7",
+    "source": "26",
+    "target": "7",
+    "value": 89387,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-8",
+    "source": "26",
+    "target": "8",
+    "value": 8101,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-9",
+    "source": "26",
+    "target": "9",
+    "value": 6368,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-10",
+    "source": "26",
+    "target": "10",
+    "value": 136095,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-11",
+    "source": "26",
+    "target": "11",
+    "value": 9177,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-12",
+    "source": "26",
+    "target": "12",
+    "value": 135560,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-13",
+    "source": "26",
+    "target": "13",
+    "value": 235696,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-15",
+    "source": "26",
+    "target": "15",
+    "value": 26,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-16",
+    "source": "26",
+    "target": "16",
+    "value": 100569,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-17",
+    "source": "26",
+    "target": "17",
+    "value": 108330,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-18",
+    "source": "26",
+    "target": "18",
+    "value": 40726,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-19",
+    "source": "26",
+    "target": "19",
+    "value": 1033,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-20",
+    "source": "26",
+    "target": "20",
+    "value": 4,
+    "tradeType": "import"
+  },
+  {
+    "id": "e26-21",
+    "source": "26",
+    "target": "21",
+    "value": 7874,
+    "tradeType": "import"
+  },
+  {
+    "id": "e1-27",
+    "source": "1",
+    "target": "27",
+    "value": null,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-2",
+    "source": "27",
+    "target": "2",
+    "value": 488,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-3",
+    "source": "27",
+    "target": "3",
+    "value": 38706,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-5",
+    "source": "27",
+    "target": "5",
+    "value": 2164,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-6",
+    "source": "27",
+    "target": "6",
+    "value": 1272,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-7",
+    "source": "27",
+    "target": "7",
+    "value": 3387,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-8",
+    "source": "27",
+    "target": "8",
+    "value": 5,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-9",
+    "source": "27",
+    "target": "9",
+    "value": 5436,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-10",
+    "source": "27",
+    "target": "10",
+    "value": 12405,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-11",
+    "source": "27",
+    "target": "11",
+    "value": 225843,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-12",
+    "source": "27",
+    "target": "12",
+    "value": 82230,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-13",
+    "source": "27",
+    "target": "13",
+    "value": 23764,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-16",
+    "source": "27",
+    "target": "16",
+    "value": 45831,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-17",
+    "source": "27",
+    "target": "17",
+    "value": 29082,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-18",
+    "source": "27",
+    "target": "18",
+    "value": 86780,
+    "tradeType": "import"
+  },
+  {
+    "id": "e27-21",
+    "source": "27",
+    "target": "21",
+    "value": 22036,
+    "tradeType": "import"
+  },
+  {
+    "id": "e1-28",
+    "source": "1",
+    "target": "28",
+    "value": null,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-2",
+    "source": "28",
+    "target": "2",
+    "value": 5,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-3",
+    "source": "28",
+    "target": "3",
+    "value": 660,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-5",
+    "source": "28",
+    "target": "5",
+    "value": 5434,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-6",
+    "source": "28",
+    "target": "6",
+    "value": 10,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-7",
+    "source": "28",
+    "target": "7",
+    "value": 6102,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-8",
+    "source": "28",
+    "target": "8",
+    "value": 18478,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-9",
+    "source": "28",
+    "target": "9",
+    "value": 633,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-10",
+    "source": "28",
+    "target": "10",
+    "value": 30356,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-11",
+    "source": "28",
+    "target": "11",
+    "value": 111890,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-12",
+    "source": "28",
+    "target": "12",
+    "value": 97239,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-13",
+    "source": "28",
+    "target": "13",
+    "value": 4746,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-16",
+    "source": "28",
+    "target": "16",
+    "value": 5283,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-17",
+    "source": "28",
+    "target": "17",
+    "value": 951,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-18",
+    "source": "28",
+    "target": "18",
+    "value": 2534,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-20",
+    "source": "28",
+    "target": "20",
+    "value": 10,
+    "tradeType": "import"
+  },
+  {
+    "id": "e28-21",
+    "source": "28",
+    "target": "21",
+    "value": 86214,
+    "tradeType": "import"
+  },
+  {
+    "id": "e1-29",
+    "source": "1",
+    "target": "29",
+    "value": null,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-2",
+    "source": "29",
+    "target": "2",
+    "value": 308,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-3",
+    "source": "29",
+    "target": "3",
+    "value": 544,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-4",
+    "source": "29",
+    "target": "4",
+    "value": 4,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-5",
+    "source": "29",
+    "target": "5",
+    "value": 10965,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-6",
+    "source": "29",
+    "target": "6",
+    "value": 66,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-7",
+    "source": "29",
+    "target": "7",
+    "value": 8870,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-8",
+    "source": "29",
+    "target": "8",
+    "value": 36098,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-9",
+    "source": "29",
+    "target": "9",
+    "value": 66787,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-10",
+    "source": "29",
+    "target": "10",
+    "value": 83674,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-11",
+    "source": "29",
+    "target": "11",
+    "value": 374618,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-12",
+    "source": "29",
+    "target": "12",
+    "value": 8387636,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-13",
+    "source": "29",
+    "target": "13",
+    "value": 19637,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-15",
+    "source": "29",
+    "target": "15",
+    "value": 19900,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-16",
+    "source": "29",
+    "target": "16",
+    "value": 7848,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-17",
+    "source": "29",
+    "target": "17",
+    "value": 168548,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-18",
+    "source": "29",
+    "target": "18",
+    "value": 23912,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-19",
+    "source": "29",
+    "target": "19",
+    "value": 7,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-20",
+    "source": "29",
+    "target": "20",
+    "value": 50,
+    "tradeType": "import"
+  },
+  {
+    "id": "e29-21",
+    "source": "29",
+    "target": "21",
+    "value": 2563,
+    "tradeType": "import"
+  },
+  {
+    "id": "e30-1",
+    "source": "30",
+    "target": "1",
+    "value": null,
+    "tradeType": "export"
+  },
+  {
+    "id": "e11-30",
+    "source": "11",
+    "target": "30",
+    "value": 121,
+    "tradeType": "export"
+  },
+  {
+    "id": "e12-30",
+    "source": "12",
+    "target": "30",
+    "value": 189179,
+    "tradeType": "export"
+  },
+  {
+    "id": "e10-30",
+    "source": "10",
+    "target": "30",
+    "value": 2695,
+    "tradeType": "export"
+  },
+  {
+    "id": "e6-30",
+    "source": "6",
+    "target": "30",
+    "value": 1594,
+    "tradeType": "export"
+  },
+  {
+    "id": "e7-30",
+    "source": "7",
+    "target": "30",
+    "value": 43777,
+    "tradeType": "export"
+  },
+  {
+    "id": "e9-30",
+    "source": "9",
+    "target": "30",
+    "value": 3082,
+    "tradeType": "export"
+  },
+  {
+    "id": "e8-30",
+    "source": "8",
+    "target": "30",
+    "value": 1156,
+    "tradeType": "export"
+  },
+  {
+    "id": "e3-30",
+    "source": "3",
+    "target": "30",
+    "value": 1242,
+    "tradeType": "export"
+  },
+  {
+    "id": "e5-30",
+    "source": "5",
+    "target": "30",
+    "value": 93474,
+    "tradeType": "export"
+  },
+  {
+    "id": "e2-30",
+    "source": "2",
+    "target": "30",
+    "value": 209,
+    "tradeType": "export"
+  },
+  {
+    "id": "e21-30",
+    "source": "21",
+    "target": "30",
+    "value": 5747,
+    "tradeType": "export"
+  },
+  {
+    "id": "e18-30",
+    "source": "18",
+    "target": "30",
+    "value": 1338,
+    "tradeType": "export"
+  },
+  {
+    "id": "e15-30",
+    "source": "15",
+    "target": "30",
+    "value": 7,
+    "tradeType": "export"
+  },
+  {
+    "id": "e16-30",
+    "source": "16",
+    "target": "30",
+    "value": 17711,
+    "tradeType": "export"
+  },
+  {
+    "id": "e17-30",
+    "source": "17",
+    "target": "30",
+    "value": 676,
+    "tradeType": "export"
+  },
+  {
+    "id": "e13-30",
+    "source": "13",
+    "target": "30",
+    "value": 11654,
+    "tradeType": "export"
+  },
+  {
+    "id": "e31-1",
+    "source": "31",
+    "target": "1",
+    "value": null,
+    "tradeType": "export"
+  },
+  {
+    "id": "e12-31",
+    "source": "12",
+    "target": "31",
+    "value": 3705598,
+    "tradeType": "export"
+  },
+  {
+    "id": "e10-31",
+    "source": "10",
+    "target": "31",
+    "value": 1711,
+    "tradeType": "export"
+  },
+  {
+    "id": "e7-31",
+    "source": "7",
+    "target": "31",
+    "value": 6693,
+    "tradeType": "export"
+  },
+  {
+    "id": "e9-31",
+    "source": "9",
+    "target": "31",
+    "value": 14032,
+    "tradeType": "export"
+  },
+  {
+    "id": "e8-31",
+    "source": "8",
+    "target": "31",
+    "value": 10244,
+    "tradeType": "export"
+  },
+  {
+    "id": "e3-31",
+    "source": "3",
+    "target": "31",
+    "value": 15,
+    "tradeType": "export"
+  },
+  {
+    "id": "e5-31",
+    "source": "5",
+    "target": "31",
+    "value": 3909589,
+    "tradeType": "export"
+  },
+  {
+    "id": "e2-31",
+    "source": "2",
+    "target": "31",
+    "value": 8242,
+    "tradeType": "export"
+  },
+  {
+    "id": "e20-31",
+    "source": "20",
+    "target": "31",
+    "value": 10317,
+    "tradeType": "export"
+  },
+  {
+    "id": "e21-31",
+    "source": "21",
+    "target": "31",
+    "value": 843050,
+    "tradeType": "export"
+  },
+  {
+    "id": "e18-31",
+    "source": "18",
+    "target": "31",
+    "value": 174288,
+    "tradeType": "export"
+  },
+  {
+    "id": "e15-31",
+    "source": "15",
+    "target": "31",
+    "value": 92689,
+    "tradeType": "export"
+  },
+  {
+    "id": "e16-31",
+    "source": "16",
+    "target": "31",
+    "value": 157743,
+    "tradeType": "export"
+  },
+  {
+    "id": "e17-31",
+    "source": "17",
+    "target": "31",
+    "value": 900,
+    "tradeType": "export"
+  },
+  {
+    "id": "e13-31",
+    "source": "13",
+    "target": "31",
+    "value": 1100,
+    "tradeType": "export"
+  },
+  {
+    "id": "e32-1",
+    "source": "32",
+    "target": "1",
+    "value": null,
+    "tradeType": "export"
+  },
+  {
+    "id": "e11-32",
+    "source": "11",
+    "target": "32",
+    "value": 20756,
+    "tradeType": "export"
+  },
+  {
+    "id": "e12-32",
+    "source": "12",
+    "target": "32",
+    "value": 40359,
+    "tradeType": "export"
+  },
+  {
+    "id": "e10-32",
+    "source": "10",
+    "target": "32",
+    "value": 29441,
+    "tradeType": "export"
+  },
+  {
+    "id": "e7-32",
+    "source": "7",
+    "target": "32",
+    "value": 39298,
+    "tradeType": "export"
+  },
+  {
+    "id": "e9-32",
+    "source": "9",
+    "target": "32",
+    "value": 11434,
+    "tradeType": "export"
+  },
+  {
+    "id": "e8-32",
+    "source": "8",
+    "target": "32",
+    "value": 5241,
+    "tradeType": "export"
+  },
+  {
+    "id": "e3-32",
+    "source": "3",
+    "target": "32",
+    "value": 5871,
+    "tradeType": "export"
+  },
+  {
+    "id": "e5-32",
+    "source": "5",
+    "target": "32",
+    "value": 671158,
+    "tradeType": "export"
+  },
+  {
+    "id": "e2-32",
+    "source": "2",
+    "target": "32",
+    "value": 4672,
+    "tradeType": "export"
+  },
+  {
+    "id": "e20-32",
+    "source": "20",
+    "target": "32",
+    "value": 14,
+    "tradeType": "export"
+  },
+  {
+    "id": "e21-32",
+    "source": "21",
+    "target": "32",
+    "value": 29049,
+    "tradeType": "export"
+  },
+  {
+    "id": "e18-32",
+    "source": "18",
+    "target": "32",
+    "value": 16804,
+    "tradeType": "export"
+  },
+  {
+    "id": "e19-32",
+    "source": "19",
+    "target": "32",
+    "value": 54,
+    "tradeType": "export"
+  },
+  {
+    "id": "e15-32",
+    "source": "15",
+    "target": "32",
+    "value": 2735,
+    "tradeType": "export"
+  },
+  {
+    "id": "e16-32",
+    "source": "16",
+    "target": "32",
+    "value": 63571,
+    "tradeType": "export"
+  },
+  {
+    "id": "e17-32",
+    "source": "17",
+    "target": "32",
+    "value": 73941,
+    "tradeType": "export"
+  },
+  {
+    "id": "e14-32",
+    "source": "14",
+    "target": "32",
+    "value": 177,
+    "tradeType": "export"
+  },
+  {
+    "id": "e13-32",
+    "source": "13",
+    "target": "32",
+    "value": 131790,
+    "tradeType": "export"
+  },
+  {
+    "id": "e33-1",
+    "source": "33",
+    "target": "1",
+    "value": null,
+    "tradeType": "export"
+  },
+  {
+    "id": "e11-33",
+    "source": "11",
+    "target": "33",
+    "value": 5318,
+    "tradeType": "export"
+  },
+  {
+    "id": "e12-33",
+    "source": "12",
+    "target": "33",
+    "value": 1869850,
+    "tradeType": "export"
+  },
+  {
+    "id": "e10-33",
+    "source": "10",
+    "target": "33",
+    "value": 3055,
+    "tradeType": "export"
+  },
+  {
+    "id": "e7-33",
+    "source": "7",
+    "target": "33",
+    "value": 20775,
+    "tradeType": "export"
+  },
+  {
+    "id": "e9-33",
+    "source": "9",
+    "target": "33",
+    "value": 7747,
+    "tradeType": "export"
+  },
+  {
+    "id": "e8-33",
+    "source": "8",
+    "target": "33",
+    "value": 11933,
+    "tradeType": "export"
+  },
+  {
+    "id": "e3-33",
+    "source": "3",
+    "target": "33",
+    "value": 7739,
+    "tradeType": "export"
+  },
+  {
+    "id": "e4-33",
+    "source": "4",
+    "target": "33",
+    "value": 744,
+    "tradeType": "export"
+  },
+  {
+    "id": "e5-33",
+    "source": "5",
+    "target": "33",
+    "value": 283899,
+    "tradeType": "export"
+  },
+  {
+    "id": "e2-33",
+    "source": "2",
+    "target": "33",
+    "value": 699,
+    "tradeType": "export"
+  },
+  {
+    "id": "e20-33",
+    "source": "20",
+    "target": "33",
+    "value": 609,
+    "tradeType": "export"
+  },
+  {
+    "id": "e21-33",
+    "source": "21",
+    "target": "33",
+    "value": 120643,
+    "tradeType": "export"
+  },
+  {
+    "id": "e18-33",
+    "source": "18",
+    "target": "33",
+    "value": 121304,
+    "tradeType": "export"
+  },
+  {
+    "id": "e19-33",
+    "source": "19",
+    "target": "33",
+    "value": 14667,
+    "tradeType": "export"
+  },
+  {
+    "id": "e15-33",
+    "source": "15",
+    "target": "33",
+    "value": 5513,
+    "tradeType": "export"
+  },
+  {
+    "id": "e16-33",
+    "source": "16",
+    "target": "33",
+    "value": 242462,
+    "tradeType": "export"
+  },
+  {
+    "id": "e17-33",
+    "source": "17",
+    "target": "33",
+    "value": 2031,
+    "tradeType": "export"
+  },
+  {
+    "id": "e13-33",
+    "source": "13",
+    "target": "33",
+    "value": 11129,
+    "tradeType": "export"
+  },
+  {
+    "id": "e34-1",
+    "source": "34",
+    "target": "1",
+    "value": null,
+    "tradeType": "export"
+  },
+  {
+    "id": "e11-34",
+    "source": "11",
+    "target": "34",
+    "value": 1003,
+    "tradeType": "export"
+  },
+  {
+    "id": "e12-34",
+    "source": "12",
+    "target": "34",
+    "value": 208788,
+    "tradeType": "export"
+  },
+  {
+    "id": "e10-34",
+    "source": "10",
+    "target": "34",
+    "value": 18310,
+    "tradeType": "export"
+  },
+  {
+    "id": "e6-34",
+    "source": "6",
+    "target": "34",
+    "value": 37,
+    "tradeType": "export"
+  },
+  {
+    "id": "e7-34",
+    "source": "7",
+    "target": "34",
+    "value": 26512,
+    "tradeType": "export"
+  },
+  {
+    "id": "e9-34",
+    "source": "9",
+    "target": "34",
+    "value": 5126,
+    "tradeType": "export"
+  },
+  {
+    "id": "e8-34",
+    "source": "8",
+    "target": "34",
+    "value": 1482,
+    "tradeType": "export"
+  },
+  {
+    "id": "e3-34",
+    "source": "3",
+    "target": "34",
+    "value": 20145,
+    "tradeType": "export"
+  },
+  {
+    "id": "e4-34",
+    "source": "4",
+    "target": "34",
+    "value": 67,
+    "tradeType": "export"
+  },
+  {
+    "id": "e5-34",
+    "source": "5",
+    "target": "34",
+    "value": 48504,
+    "tradeType": "export"
+  },
+  {
+    "id": "e2-34",
+    "source": "2",
+    "target": "34",
+    "value": 1479,
+    "tradeType": "export"
+  },
+  {
+    "id": "e21-34",
+    "source": "21",
+    "target": "34",
+    "value": 7224,
+    "tradeType": "export"
+  },
+  {
+    "id": "e22-34",
+    "source": "22",
+    "target": "34",
+    "value": 69,
+    "tradeType": "export"
+  },
+  {
+    "id": "e18-34",
+    "source": "18",
+    "target": "34",
+    "value": 22856,
+    "tradeType": "export"
+  },
+  {
+    "id": "e19-34",
+    "source": "19",
+    "target": "34",
+    "value": 16,
+    "tradeType": "export"
+  },
+  {
+    "id": "e16-34",
+    "source": "16",
+    "target": "34",
+    "value": 52170,
+    "tradeType": "export"
+  },
+  {
+    "id": "e17-34",
+    "source": "17",
+    "target": "34",
+    "value": 4821,
+    "tradeType": "export"
+  },
+  {
+    "id": "e13-34",
+    "source": "13",
+    "target": "34",
+    "value": 7953,
+    "tradeType": "export"
+  },
+  {
+    "id": "e35-1",
+    "source": "35",
+    "target": "1",
+    "value": null,
+    "tradeType": "export"
+  },
+  {
+    "id": "e11-35",
+    "source": "11",
+    "target": "35",
+    "value": 33,
+    "tradeType": "export"
+  },
+  {
+    "id": "e12-35",
+    "source": "12",
+    "target": "35",
+    "value": 93931,
+    "tradeType": "export"
+  },
+  {
+    "id": "e10-35",
+    "source": "10",
+    "target": "35",
+    "value": 2556,
+    "tradeType": "export"
+  },
+  {
+    "id": "e6-35",
+    "source": "6",
+    "target": "35",
+    "value": 196,
+    "tradeType": "export"
+  },
+  {
+    "id": "e7-35",
+    "source": "7",
+    "target": "35",
+    "value": 523,
+    "tradeType": "export"
+  },
+  {
+    "id": "e9-35",
+    "source": "9",
+    "target": "35",
+    "value": 417,
+    "tradeType": "export"
+  },
+  {
+    "id": "e5-35",
+    "source": "5",
+    "target": "35",
+    "value": 3480,
+    "tradeType": "export"
+  },
+  {
+    "id": "e2-35",
+    "source": "2",
+    "target": "35",
+    "value": 1016,
+    "tradeType": "export"
+  },
+  {
+    "id": "e20-35",
+    "source": "20",
+    "target": "35",
+    "value": 4,
+    "tradeType": "export"
+  },
+  {
+    "id": "e21-35",
+    "source": "21",
+    "target": "35",
+    "value": 64,
+    "tradeType": "export"
+  },
+  {
+    "id": "e18-35",
+    "source": "18",
+    "target": "35",
+    "value": 849,
+    "tradeType": "export"
+  },
+  {
+    "id": "e16-35",
+    "source": "16",
+    "target": "35",
+    "value": 258,
+    "tradeType": "export"
+  },
+  {
+    "id": "e17-35",
+    "source": "17",
+    "target": "35",
+    "value": 4044,
+    "tradeType": "export"
+  },
+  {
+    "id": "e14-35",
+    "source": "14",
+    "target": "35",
+    "value": 49,
+    "tradeType": "export"
+  },
+  {
+    "id": "e13-35",
+    "source": "13",
+    "target": "35",
+    "value": 792,
+    "tradeType": "export"
+  },
+  {
+    "id": "e36-1",
+    "source": "36",
+    "target": "1",
+    "value": null,
+    "tradeType": "export"
+  },
+  {
+    "id": "e11-36",
+    "source": "11",
+    "target": "36",
+    "value": 940,
+    "tradeType": "export"
+  },
+  {
+    "id": "e12-36",
+    "source": "12",
+    "target": "36",
+    "value": 481519,
+    "tradeType": "export"
+  },
+  {
+    "id": "e10-36",
+    "source": "10",
+    "target": "36",
+    "value": 3959,
+    "tradeType": "export"
+  },
+  {
+    "id": "e6-36",
+    "source": "6",
+    "target": "36",
+    "value": 2459,
+    "tradeType": "export"
+  },
+  {
+    "id": "e7-36",
+    "source": "7",
+    "target": "36",
+    "value": 92638,
+    "tradeType": "export"
+  },
+  {
+    "id": "e9-36",
+    "source": "9",
+    "target": "36",
+    "value": 17842,
+    "tradeType": "export"
+  },
+  {
+    "id": "e8-36",
+    "source": "8",
+    "target": "36",
+    "value": 5749,
+    "tradeType": "export"
+  },
+  {
+    "id": "e3-36",
+    "source": "3",
+    "target": "36",
+    "value": 656,
+    "tradeType": "export"
+  },
+  {
+    "id": "e5-36",
+    "source": "5",
+    "target": "36",
+    "value": 186412,
+    "tradeType": "export"
+  },
+  {
+    "id": "e2-36",
+    "source": "2",
+    "target": "36",
+    "value": 5077,
+    "tradeType": "export"
+  },
+  {
+    "id": "e21-36",
+    "source": "21",
+    "target": "36",
+    "value": 64766,
+    "tradeType": "export"
+  },
+  {
+    "id": "e18-36",
+    "source": "18",
+    "target": "36",
+    "value": 28819,
+    "tradeType": "export"
+  },
+  {
+    "id": "e19-36",
+    "source": "19",
+    "target": "36",
+    "value": 20765,
+    "tradeType": "export"
+  },
+  {
+    "id": "e15-36",
+    "source": "15",
+    "target": "36",
+    "value": 40,
+    "tradeType": "export"
+  },
+  {
+    "id": "e16-36",
+    "source": "16",
+    "target": "36",
+    "value": 4568,
+    "tradeType": "export"
+  },
+  {
+    "id": "e17-36",
+    "source": "17",
+    "target": "36",
+    "value": 36688,
+    "tradeType": "export"
+  },
+  {
+    "id": "e13-36",
+    "source": "13",
+    "target": "36",
+    "value": 15437,
+    "tradeType": "export"
+  },
+  {
+    "id": "e23-37",
+    "source": "23",
+    "target": "37",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "e24-38",
+    "source": "24",
+    "target": "38",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "e25-39",
+    "source": "25",
+    "target": "39",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "e26-40",
+    "source": "26",
+    "target": "40",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "e27-40",
+    "source": "27",
+    "target": "40",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "e28-41",
+    "source": "28",
+    "target": "41",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "e29-40",
+    "source": "29",
+    "target": "40",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "e30-42",
+    "source": "30",
+    "target": "42",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "e31-40",
+    "source": "31",
+    "target": "40",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "e32-42",
+    "source": "32",
+    "target": "42",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "e33-42",
+    "source": "33",
+    "target": "42",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "e34-37",
+    "source": "34",
+    "target": "37",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "e35-43",
+    "source": "35",
+    "target": "43",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "e36-43",
+    "source": "36",
+    "target": "43",
+    "value": null,
+    "tradeType": "industry"
+  },
+  {
+    "id": "epolicy_49-42",
+    "source": "policy_49",
+    "target": "42",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_49-43",
+    "source": "policy_49",
+    "target": "43",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_49-38",
+    "source": "policy_49",
+    "target": "38",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_49-40",
+    "source": "policy_49",
+    "target": "40",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_49-39",
+    "source": "policy_49",
+    "target": "39",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_49-14",
+    "source": "policy_49",
+    "target": "14",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_49-11",
+    "source": "policy_49",
+    "target": "11",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_49-13",
+    "source": "policy_49",
+    "target": "13",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_49-3",
+    "source": "policy_49",
+    "target": "3",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_49-12",
+    "source": "policy_49",
+    "target": "12",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-40",
+    "source": "policy_50",
+    "target": "40",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-38",
+    "source": "policy_50",
+    "target": "38",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-39",
+    "source": "policy_50",
+    "target": "39",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-37",
+    "source": "policy_50",
+    "target": "37",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-43",
+    "source": "policy_50",
+    "target": "43",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-42",
+    "source": "policy_50",
+    "target": "42",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-41",
+    "source": "policy_50",
+    "target": "41",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-22",
+    "source": "policy_50",
+    "target": "22",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-11",
+    "source": "policy_50",
+    "target": "11",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-15",
+    "source": "policy_50",
+    "target": "15",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-tariff_45",
+    "source": "policy_50",
+    "target": "tariff_45",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-3",
+    "source": "policy_50",
+    "target": "3",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-tariff_46",
+    "source": "policy_50",
+    "target": "tariff_46",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-14",
+    "source": "policy_50",
+    "target": "14",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-13",
+    "source": "policy_50",
+    "target": "13",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-19",
+    "source": "policy_50",
+    "target": "19",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-tariff_44",
+    "source": "policy_50",
+    "target": "tariff_44",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-tariff_47",
+    "source": "policy_50",
+    "target": "tariff_47",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-2",
+    "source": "policy_50",
+    "target": "2",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-8",
+    "source": "policy_50",
+    "target": "8",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-5",
+    "source": "policy_50",
+    "target": "5",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-9",
+    "source": "policy_50",
+    "target": "9",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-4",
+    "source": "policy_50",
+    "target": "4",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-17",
+    "source": "policy_50",
+    "target": "17",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-21",
+    "source": "policy_50",
+    "target": "21",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-18",
+    "source": "policy_50",
+    "target": "18",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-12",
+    "source": "policy_50",
+    "target": "12",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-20",
+    "source": "policy_50",
+    "target": "20",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_50-10",
+    "source": "policy_50",
+    "target": "10",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-37",
+    "source": "policy_51",
+    "target": "37",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-9",
+    "source": "policy_51",
+    "target": "9",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-13",
+    "source": "policy_51",
+    "target": "13",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-20",
+    "source": "policy_51",
+    "target": "20",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-8",
+    "source": "policy_51",
+    "target": "8",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-14",
+    "source": "policy_51",
+    "target": "14",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-17",
+    "source": "policy_51",
+    "target": "17",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-2",
+    "source": "policy_51",
+    "target": "2",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-18",
+    "source": "policy_51",
+    "target": "18",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-22",
+    "source": "policy_51",
+    "target": "22",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-tariff_48",
+    "source": "policy_51",
+    "target": "tariff_48",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-4",
+    "source": "policy_51",
+    "target": "4",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-tariff_47",
+    "source": "policy_51",
+    "target": "tariff_47",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_51-tariff_44",
+    "source": "policy_51",
+    "target": "tariff_44",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-38",
+    "source": "policy_52",
+    "target": "38",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-42",
+    "source": "policy_52",
+    "target": "42",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-37",
+    "source": "policy_52",
+    "target": "37",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-19",
+    "source": "policy_52",
+    "target": "19",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-tariff_48",
+    "source": "policy_52",
+    "target": "tariff_48",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-10",
+    "source": "policy_52",
+    "target": "10",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-22",
+    "source": "policy_52",
+    "target": "22",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-2",
+    "source": "policy_52",
+    "target": "2",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-11",
+    "source": "policy_52",
+    "target": "11",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-18",
+    "source": "policy_52",
+    "target": "18",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-3",
+    "source": "policy_52",
+    "target": "3",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-tariff_45",
+    "source": "policy_52",
+    "target": "tariff_45",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-tariff_47",
+    "source": "policy_52",
+    "target": "tariff_47",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-13",
+    "source": "policy_52",
+    "target": "13",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-12",
+    "source": "policy_52",
+    "target": "12",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-tariff_46",
+    "source": "policy_52",
+    "target": "tariff_46",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-7",
+    "source": "policy_52",
+    "target": "7",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-20",
+    "source": "policy_52",
+    "target": "20",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-14",
+    "source": "policy_52",
+    "target": "14",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-15",
+    "source": "policy_52",
+    "target": "15",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-9",
+    "source": "policy_52",
+    "target": "9",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-17",
+    "source": "policy_52",
+    "target": "17",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-6",
+    "source": "policy_52",
+    "target": "6",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_52-8",
+    "source": "policy_52",
+    "target": "8",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-42",
+    "source": "policy_53",
+    "target": "42",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-37",
+    "source": "policy_53",
+    "target": "37",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-40",
+    "source": "policy_53",
+    "target": "40",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-39",
+    "source": "policy_53",
+    "target": "39",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-38",
+    "source": "policy_53",
+    "target": "38",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-41",
+    "source": "policy_53",
+    "target": "41",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-21",
+    "source": "policy_53",
+    "target": "21",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-10",
+    "source": "policy_53",
+    "target": "10",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-12",
+    "source": "policy_53",
+    "target": "12",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-tariff_48",
+    "source": "policy_53",
+    "target": "tariff_48",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-4",
+    "source": "policy_53",
+    "target": "4",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-18",
+    "source": "policy_53",
+    "target": "18",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-tariff_47",
+    "source": "policy_53",
+    "target": "tariff_47",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-8",
+    "source": "policy_53",
+    "target": "8",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-3",
+    "source": "policy_53",
+    "target": "3",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-tariff_44",
+    "source": "policy_53",
+    "target": "tariff_44",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-tariff_46",
+    "source": "policy_53",
+    "target": "tariff_46",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-17",
+    "source": "policy_53",
+    "target": "17",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-22",
+    "source": "policy_53",
+    "target": "22",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-19",
+    "source": "policy_53",
+    "target": "19",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-15",
+    "source": "policy_53",
+    "target": "15",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-16",
+    "source": "policy_53",
+    "target": "16",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-tariff_45",
+    "source": "policy_53",
+    "target": "tariff_45",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-6",
+    "source": "policy_53",
+    "target": "6",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-13",
+    "source": "policy_53",
+    "target": "13",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-2",
+    "source": "policy_53",
+    "target": "2",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-9",
+    "source": "policy_53",
+    "target": "9",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-20",
+    "source": "policy_53",
+    "target": "20",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-11",
+    "source": "policy_53",
+    "target": "11",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-5",
+    "source": "policy_53",
+    "target": "5",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-14",
+    "source": "policy_53",
+    "target": "14",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_53-7",
+    "source": "policy_53",
+    "target": "7",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_54-39",
+    "source": "policy_54",
+    "target": "39",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_54-tariff_48",
+    "source": "policy_54",
+    "target": "tariff_48",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_54-2",
+    "source": "policy_54",
+    "target": "2",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_54-14",
+    "source": "policy_54",
+    "target": "14",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_54-tariff_47",
+    "source": "policy_54",
+    "target": "tariff_47",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_54-19",
+    "source": "policy_54",
+    "target": "19",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_54-20",
+    "source": "policy_54",
+    "target": "20",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_54-16",
+    "source": "policy_54",
+    "target": "16",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_54-13",
+    "source": "policy_54",
+    "target": "13",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_54-tariff_46",
+    "source": "policy_54",
+    "target": "tariff_46",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_54-tariff_44",
+    "source": "policy_54",
+    "target": "tariff_44",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-42",
+    "source": "policy_55",
+    "target": "42",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-37",
+    "source": "policy_55",
+    "target": "37",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-43",
+    "source": "policy_55",
+    "target": "43",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-38",
+    "source": "policy_55",
+    "target": "38",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-41",
+    "source": "policy_55",
+    "target": "41",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-40",
+    "source": "policy_55",
+    "target": "40",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-11",
+    "source": "policy_55",
+    "target": "11",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-20",
+    "source": "policy_55",
+    "target": "20",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-tariff_48",
+    "source": "policy_55",
+    "target": "tariff_48",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-13",
+    "source": "policy_55",
+    "target": "13",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-6",
+    "source": "policy_55",
+    "target": "6",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-4",
+    "source": "policy_55",
+    "target": "4",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-5",
+    "source": "policy_55",
+    "target": "5",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-tariff_46",
+    "source": "policy_55",
+    "target": "tariff_46",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-tariff_45",
+    "source": "policy_55",
+    "target": "tariff_45",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-18",
+    "source": "policy_55",
+    "target": "18",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-10",
+    "source": "policy_55",
+    "target": "10",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-3",
+    "source": "policy_55",
+    "target": "3",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_55-7",
+    "source": "policy_55",
+    "target": "7",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-42",
+    "source": "policy_56",
+    "target": "42",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-41",
+    "source": "policy_56",
+    "target": "41",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-38",
+    "source": "policy_56",
+    "target": "38",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-11",
+    "source": "policy_56",
+    "target": "11",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-19",
+    "source": "policy_56",
+    "target": "19",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-13",
+    "source": "policy_56",
+    "target": "13",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-tariff_45",
+    "source": "policy_56",
+    "target": "tariff_45",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-21",
+    "source": "policy_56",
+    "target": "21",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-17",
+    "source": "policy_56",
+    "target": "17",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-4",
+    "source": "policy_56",
+    "target": "4",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-tariff_44",
+    "source": "policy_56",
+    "target": "tariff_44",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-22",
+    "source": "policy_56",
+    "target": "22",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-12",
+    "source": "policy_56",
+    "target": "12",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-20",
+    "source": "policy_56",
+    "target": "20",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-tariff_47",
+    "source": "policy_56",
+    "target": "tariff_47",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-6",
+    "source": "policy_56",
+    "target": "6",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-5",
+    "source": "policy_56",
+    "target": "5",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_56-7",
+    "source": "policy_56",
+    "target": "7",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-42",
+    "source": "policy_57",
+    "target": "42",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-39",
+    "source": "policy_57",
+    "target": "39",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-38",
+    "source": "policy_57",
+    "target": "38",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-41",
+    "source": "policy_57",
+    "target": "41",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-8",
+    "source": "policy_57",
+    "target": "8",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-16",
+    "source": "policy_57",
+    "target": "16",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-20",
+    "source": "policy_57",
+    "target": "20",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-14",
+    "source": "policy_57",
+    "target": "14",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-13",
+    "source": "policy_57",
+    "target": "13",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-tariff_45",
+    "source": "policy_57",
+    "target": "tariff_45",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-19",
+    "source": "policy_57",
+    "target": "19",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-2",
+    "source": "policy_57",
+    "target": "2",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-5",
+    "source": "policy_57",
+    "target": "5",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-tariff_44",
+    "source": "policy_57",
+    "target": "tariff_44",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-3",
+    "source": "policy_57",
+    "target": "3",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-11",
+    "source": "policy_57",
+    "target": "11",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-17",
+    "source": "policy_57",
+    "target": "17",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-15",
+    "source": "policy_57",
+    "target": "15",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-22",
+    "source": "policy_57",
+    "target": "22",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-4",
+    "source": "policy_57",
+    "target": "4",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-tariff_46",
+    "source": "policy_57",
+    "target": "tariff_46",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-9",
+    "source": "policy_57",
+    "target": "9",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-6",
+    "source": "policy_57",
+    "target": "6",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-tariff_48",
+    "source": "policy_57",
+    "target": "tariff_48",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-7",
+    "source": "policy_57",
+    "target": "7",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-tariff_47",
+    "source": "policy_57",
+    "target": "tariff_47",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-21",
+    "source": "policy_57",
+    "target": "21",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-18",
+    "source": "policy_57",
+    "target": "18",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_57-10",
+    "source": "policy_57",
+    "target": "10",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_58-37",
+    "source": "policy_58",
+    "target": "37",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_58-41",
+    "source": "policy_58",
+    "target": "41",
+    "value": null,
+    "tradeType": "policy"
+  },
+  {
+    "id": "epolicy_58-11",
+    "source": "policy_58",
+    "target": "11",
+    "value": null,
+    "tradeType": "policy"
+  }
+]
