@@ -81,68 +81,64 @@ export default function Graph() {
 
   const [traversalResults, setTraversalResults] = useState(null);
 
+  // **1. State to Track Excluded Countries**
+  const [excludedCountries, setExcludedCountries] = useState<string[]>([]);
+
   const allParameters = [
     {
       value: "gdp",
       label: "GDP",
-      currentValue: "$1,234,567",
-      actualCurrentValue: 1234567,
+      currentValue: "$1,289,884",
+      actualCurrentValue: 1289884,
     },
     {
       value: "inflation",
       label: "Inflation",
-      currentValue: "2.5%",
-      actualCurrentValue: 2.5,
+      currentValue: "2.55%",
+      actualCurrentValue: 2.55,
     },
     {
       value: "unemployment",
       label: "Unemployment Rate",
-      currentValue: "5%",
-      actualCurrentValue: 5,
+      currentValue: "5.48%",
+      actualCurrentValue: 5.48,
     },
     {
       value: "trade_balance",
       label: "Trade Balance",
-      currentValue: "$500,000",
-      actualCurrentValue: 500000,
+      currentValue: "$554,910",
+      actualCurrentValue: 554910,
     },
     {
       value: "interest_rate",
       label: "Interest Rate",
-      currentValue: "3%",
-      actualCurrentValue: 3,
+      currentValue: "3.05%",
+      actualCurrentValue: 3.05,
     },
     {
       value: "exchange_rate",
       label: "Exchange Rate",
-      currentValue: "1.2 USD/EUR",
-      actualCurrentValue: 1.2,
+      currentValue: "1.21 USD/EUR",
+      actualCurrentValue: 1.21,
     },
     {
       value: "budget_deficit",
       label: "Budget Deficit",
-      currentValue: "$250,000",
-      actualCurrentValue: 250000,
+      currentValue: "$258,219",
+      actualCurrentValue: 258219,
     },
     {
       value: "export_growth",
       label: "Export Growth",
-      currentValue: "4.5%",
+      currentValue: "4.38%",
       actualCurrentValue: 4.5,
     },
     {
       value: "import_growth",
       label: "Import Growth",
-      currentValue: "3.8%",
+      currentValue: "3.86%",
       actualCurrentValue: 3.8,
     },
-    {
-      value: "consumer_spending",
-      label: "Consumer Spending",
-      currentValue: "$750,000",
-      actualCurrentValue: 750000,
-    },
-    // Add more parameters as needed
   ];
 
   const getRandomParameters = (num: number) => {
@@ -274,7 +270,7 @@ export default function Graph() {
     );
   }, []);
 
-  const generateMockResults = () => {
+  const generateMockResults = (currentNode, selectedParameter) => {
     const possibleMetrics = [
       "GDP",
       "Inflation",
@@ -296,27 +292,64 @@ export default function Graph() {
       "Industrial Production",
       "Energy Consumption",
       "Tourism Revenue",
-    ];
+    ].filter((item) => item != selectedParameter?.label);
+    const possibleMetricsCountries = ["Inflation", "GDP", "Budget Deficit"];
 
-    const numResults = Math.floor(Math.random() * 5) + 4;
+    const otherCountries = ["Zambia", "Ghana", "Greenland", "Bhutan", "Yemen"];
+
+    const availableCountries = otherCountries.filter(
+      (country) => !excludedCountries.includes(country),
+    );
+
+    const numResults = Math.floor(Math.random() * 5) + 3;
 
     const shuffledMetrics = [...possibleMetrics].sort(
       () => 0.5 - Math.random(),
     );
-
     const selectedMetrics = shuffledMetrics.slice(0, numResults);
 
     const results = {};
 
     selectedMetrics.forEach((metric) => {
-      const isIncrease = Math.random() < 0.1;
-
-      const probability = Math.floor(Math.random() * 10) + 8;
+      const isIncrease = Math.random() < 0.5;
+      const probability = Math.floor(Math.random() * 11) + 8;
 
       const changeType = isIncrease ? "increase" : "decrease";
 
       results[metric] = `Probability of ${changeType}: ${probability}%`;
     });
+
+    const prevInteractionsCount = Math.floor(Math.random() * 3);
+    const interactionsCount =
+      prevInteractionsCount == 0 ? 1 : prevInteractionsCount;
+
+    for (let i = 0; i < interactionsCount; i++) {
+      if (availableCountries.length === 0) break;
+
+      const country =
+        availableCountries[
+          Math.floor(Math.random() * availableCountries.length)
+        ];
+      const relatedMetric =
+        possibleMetricsCountries[
+          Math.floor(Math.random() * possibleMetricsCountries.length)
+        ];
+      const isRelatedIncrease = Math.random() < 0.5;
+      const relatedProbability = Math.floor(Math.random() * 11) + 8;
+      const relatedChangeType = isRelatedIncrease ? "increase" : "decrease";
+
+      const hasConnection = 0;
+
+      if (hasConnection) {
+        results[`Unexpected Relationship`] =
+          `${country} has a direct connection to ${currentNode}, leading to a ${relatedChangeType} in ${relatedMetric} by ${relatedProbability}%.`;
+      } else {
+        results[`Unexpected Relationship`] =
+          `${country} has no direct connection to ${currentNode}, but ${relatedMetric} in ${country} is expected to ${relatedChangeType} with a probability of ${relatedProbability}%.`;
+      }
+
+      setExcludedCountries((prev) => [...prev, country]);
+    }
 
     return results;
   };
@@ -376,17 +409,13 @@ export default function Graph() {
         nodeQueue.length === 0 ||
         visitedNodes.size >= maxNodesToVisitRandom
       ) {
-        // Generate mock results upon traversal completion
         const selectedParameter = dropdownOptions.find(
           (item) => item.value === selectedOption,
         );
         if (selectedParameter) {
           const selectedNode = nodes.find((node) => node.id === selectedNodeId);
           const nodeLabel = selectedNode ? selectedNode.data.label : "Unknown";
-          const results = generateMockResults(
-            nodeLabel,
-            selectedParameter.value,
-          );
+          const results = generateMockResults(nodeLabel, selectedParameter);
           setTraversalResults(results);
         }
         setIsTraversing(false);
@@ -424,10 +453,7 @@ export default function Graph() {
         if (selectedParameter) {
           const selectedNode = nodes.find((node) => node.id === selectedNodeId);
           const nodeLabel = selectedNode ? selectedNode.data.label : "Unknown";
-          const results = generateMockResults(
-            nodeLabel,
-            selectedParameter.value,
-          );
+          const results = generateMockResults(nodeLabel, selectedParameter);
           setTraversalResults(results);
         }
         setIsTraversing(false);
